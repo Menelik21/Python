@@ -1,4 +1,3 @@
-#assignment-3 file manipulation
 #author Menelik Belete
 import codecs
 import re
